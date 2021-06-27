@@ -16,13 +16,12 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 [<img align="left" alt="JavaScript" width="26px" src="images/js.png" />]
 [<img align="left" alt="HTML5" width="26px" src="images/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="images/css.png" />]
-[<img align="left" alt="SQL" width="26px" src="iamges/sql.png" />]
+[<img align="left" alt="SQL" width="26px" src="images/sql.png" />]
 [<img align="left" alt="Git" width="26px" src="images/git.png" />]
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="images/vscode.png" />]
 
 [<img align="left" alt="Spring" width="26px" src="images/spring.png" />]
-[<img align="left" alt="Intellij" width="26px" src="images/intellij.png" />]
+[<img align="left" alt="Intellij" width="26px" src="images/intelliji.png" />]
 [<img align="left" alt="Eclipse" width="26px" src="images/eclipse.png" />]
 
 <br />
