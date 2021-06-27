@@ -22,7 +22,7 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 <img align="left" alt="Intelliji" width="26px" src="images/intelliji.png" />
 
 <br />
-
+<br>
 <details>
 <summary>:zap: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=artreimagined"/>
