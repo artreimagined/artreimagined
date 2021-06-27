@@ -29,7 +29,7 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 </details>
 <details>
 <summary>:zap: GitHub Stats</summary>
-<a href="https://github-readme-stats.vercel.app/api?username=artreimagined"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=artreimagined"/>
 </details>
 
 Here are some ideas to get you started:
