@@ -19,8 +19,7 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 [<img align="left" alt="Git" width="26px" src="images/git.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="images/vscode.png" />]
 [<img align="left" alt="Spring" width="26px" src="images/spring.png" />]
-[<img align="left" alt="Intellij" width="26px" src="images/intelliji.png" />]
-[<img align="left" alt="Eclipse" width="26px" src="images/eclipse.png" />]
+[<img align="left" alt="Intelliji" width="26px" src="images/intelliji.png" />]
 
 <br />
 <details>
