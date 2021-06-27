@@ -28,78 +28,10 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 ## BlogPost Project
 <p>A blogpost CRUD application with persistent data.</p>
 <p><b>JAVA, HTML/CSS, THYMELEAF, H2 DATABASE</b></p>
-<img class="project-image" src="images/projects/blog.png" alt=""/>
+<img align="center" alt="blog project" src="projects/blog.png" alt=""/>
 <p><a class="project-link" target="_blank" href="https://github.com/artreimagined/techtalentblog.git">View Code</a></p>
        
-            <div class="pics">
-                <h3>Marta API</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/buses.png" alt="">
-                </div> 
-                <div class="details">
-                    <div class="content">
-                        <p>I used the Marta's API to search for bus locations in Atlanta, GA.</p>
-                        <p><b>JAVA, JAVASCRIPT, HTML/CSS, Thymeleaf</b></p>
-                        <p><a class="project-link" target="_blank" href="https://github.com/artreimagined/MartaTransitApp.git">View Code</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="pics">
-                <h3>Reliable Transportation</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/mj/mj1.png" alt="">
-                </div>
-                <div class="details">
-                    <div class="content">
-                        <p>I designed a logo/website for a transportation company in Georgia.</p>
-                        <p><b>JAVASCRIPT, HTML/CSS, AWS SERVICES</b></p>
-                        <p><a class="project-link" target="_blank" href="http://mjreliabletransportationllc.com">View Website</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="pics">
-                <h3>Propaganda Project</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/prop.png" alt="">
-                </div>
-                <div class="details">
-                    <div class="content">
-                        <p><b>HTML/CSS, AWS SERVICES</b></p>
-                        <p><a class="project-link" target="_blank" href="https://propaganda.s3.amazonaws.com/propaganda-project/index.html">View Website</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="pics">
-                <h3>Daria Avatar App</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/daria.png" alt="">
-                </div>
-                <div class="details">
-                    <div class="content">
-                        <p>The first iteration for a Daria avatar application.</p>
-                        <p><b>JAVA, JAVASCRIPT, HTML/CSS, Thymeleaf</b></p>
-                        <p><a class="project-link" target="_blank" href="https://dariayourself.s3.amazonaws.com/DariaAvatar+/index.html">View Website</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="pics">
-                <h3>Weather API</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/weather.png" alt="">
-                </div>
-                <div class="details">
-                    <div class="content">
-                        <p>I used Google's API to look up the weather by zipcodes.</p>
-                        <p><b>JAVA, JAVASCRIPT, HTML/CSS, Thymeleaf</b></p>
-                        <p><a class="project-link" target="_blank" href="https://github.com/artreimagined/WeatherAPI.git">View Code</a></p>
-                    </div>
-                </div>
-            </div>
             
-        </div>
-  
-
-
 <br>
 <br>
 
