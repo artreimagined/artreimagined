@@ -24,23 +24,13 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 <br>
 <br>
 
-<section class="sub-section-alternative" id="projects">
-        <h2>Projects</h2>
-        <div class="project-container">
-            <div class="pics">
-                <h3>BlogPost Project</h3>
-                <div class="imgPics">
-                    <img class="project-image" src="images/projects/blog.png" alt="">
-                </div>
-                <div class="details">
-                    <div class="content">
-                        <p>A blogpost CRUD application with persistent data.</p>
-                        <p><b>JAVA, HTML/CSS, THYMELEAF, H2 DATABASE</b></p>
-                        <p><a class="project-link" target="_blank" href="https://github.com/artreimagined/techtalentblog.git">View Code</a></p>
-                    </div>
-                </div>
-                
-            </div>
+### Projects
+## BlogPost Project
+<p>A blogpost CRUD application with persistent data.</p>
+<p><b>JAVA, HTML/CSS, THYMELEAF, H2 DATABASE</b></p>
+<img class="project-image" src="images/projects/blog.png" alt=""/>
+<p><a class="project-link" target="_blank" href="https://github.com/artreimagined/techtalentblog.git">View Code</a></p>
+       
             <div class="pics">
                 <h3>Marta API</h3>
                 <div class="imgPics">
@@ -107,7 +97,7 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
             </div>
             
         </div>
-    </section>
+  
 
 
 <br>
