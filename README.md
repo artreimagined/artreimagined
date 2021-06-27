@@ -21,8 +21,9 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 <img align="left" alt="Spring" width="26px" src="images/spring.png" />
 <img align="left" alt="Intelliji" width="26px" src="images/intelliji.png" />
 
-<br />
 <br>
+<br>
+
 <details>
 <summary>:zap: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=artreimagined"/>
@@ -40,12 +41,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-## I'm a Artist and Developer!!
-
 ### Let's connect:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/teri-davis-a225b198"/>
+  <img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 <br />
 <br />
