@@ -22,10 +22,9 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 <img align="left" alt="Intelliji" width="26px" src="images/intelliji.png" />
 
 <br />
-<details>
   <summary>:zap: GitHub Stats</summary>
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=artreimagined)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+
 
 Here are some ideas to get you started:
 
