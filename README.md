@@ -24,12 +24,12 @@ I grew up in Harlem, New York but currently live in Georgia. I'm an artist/desig
 <br>
 <br>
 
-### Projects
+<!-- ### Projects
 ## BlogPost Project
 <p>A blogpost CRUD application with persistent data.</p>
 <p><b>JAVA, HTML/CSS, THYMELEAF, H2 DATABASE</b></p>
 <img align="center" alt="blog project" src="projects/blog.png" alt=""/>
-<p><a class="project-link" target="_blank" href="https://github.com/artreimagined/techtalentblog.git">View Code</a></p>
+<p><a class="project-link" target="_blank" href="https://github.com/artreimagined/techtalentblog.git">View Code</a></p> -->
        
             
 <br>
